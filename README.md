@@ -1,1 +1,1 @@
-<img name=test>
+<img name=test id=test2>
